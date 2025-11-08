@@ -1,0 +1,17 @@
+# Environment variables
+# Ignore all .env files, except for .env.example
+.env
+.env.*
+!.env.example
+
+# Python Virtual Environments
+# Common names for virtual envs
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+uv.lock
+agent_config.json
