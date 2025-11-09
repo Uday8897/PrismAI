@@ -10,21 +10,13 @@ I have structured it to be easy to read and have included the image placeholders
 ![735b59ab-6ae1-4810-a4e4-1ea1b036ab34](https://github.com/user-attachments/assets/815ee5f0-9971-47ae-91b8-c92de3f999fa)
 ![5cb8bb9f-5ed7-448d-b197-80fdbe28a83d](https://github.com/user-attachments/assets/adc9080e-8c68-48bd-93ec-71643269c741)
 
-
-![da74fb54-c7f5-4df9-96fa-bc0a82230971](https://github.com/user-attachments/assets/d287c0ec-95cf-47fc-9c02-9a62a0a5bde
+![da74fb54-c7f5-4df9-96fa-bc0a82230971](https://github.com/user-attachments/assets/d287c0ec-95cf-47fc-9c02-9a62a0a5bdee)
 ![d50d46ce-c2c1-4b1b-9db0-a757a0f9e35c](https://github.com/user-attachments/assets/c11e04ab-34a3-4fb0-b923-f2ec98bdf882)
-e)
+
 
 **Prism AI** is an advanced, AI-powered engineering co-pilot designed to autonomously diagnose issues across a distributed, multi-cloud environment.
 
 It functions as an expert system that, upon receiving a natural language query, actively investigates the live infrastructure. It gathers real-time data from **Kubernetes**, **AWS CloudWatch**, and **GitHub Actions**, analyzes the combined data, and presents a definitive root cause analysis with actionable recommendations in a clean, web-based dashboard.
-
-## 📸 Screenshots
-
-| Incident Analysis Page | Analysis Results | Analysis History |
-| :---: | :---: | :---: |
-| `|` | \`\` |
-
 ## The Problem
 
 In modern software operations, an issue (like a failed deployment) can be caused by a problem in the Kubernetes cluster, a failure in the CI/CD pipeline, or an error surfacing in the cloud logs. Engineers must manually jump between multiple dashboards (Grafana, CloudWatch, GitHub, Lens) to correlate data and find the root cause. This process is time-consuming, error-prone, and requires significant domain expertise.
